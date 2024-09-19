@@ -4,8 +4,8 @@
 <br><br>
 - VPN, 프록시 서버 필수 (안하고 실행 시 IP차단)  <br>
  <br><br>
-`작동방식 <br>
+__작동방식__ <br>
 DB.JSON에 저장된 계정으로 입력한 아이디를 비공식 API를 통해 자동으로 팔로우합니다.  <br>
 <br><br>
-`I NEED HELP
+__I NEED HELP__
 https://discord.gg/KeAsKYZ473
